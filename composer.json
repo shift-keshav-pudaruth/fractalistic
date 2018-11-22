@@ -40,6 +40,8 @@
         "test": "phpunit"
     },
     "config": {
-        "sort-packages": true
+        "sort-packages": true,
+        "minimum-stability": "dev",
+        "prefer-stable": true
     }
 }
